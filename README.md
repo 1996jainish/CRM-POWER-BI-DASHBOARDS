@@ -18,7 +18,6 @@ To learn how the dashboard metrics were calculated, view below, otherwise close 
 Key dashboard metric descriptions
 
 
-
 Total Sales: the total dollar value of all sales won
 
 No. Sales: the count of all sales won
@@ -31,11 +30,23 @@ Conversion %: the percentage of sales won out of all sales won and lost. Sales t
 
 New Opportunities: the number of opportunities with an engage date in the selected time period
 
-Potential to Close: the total dollar value of all sales still at engaging stage
+Potential to Close: the total dollar value of all sales still at engaging stage.
 
 % of Sales Discounted: the percentage of won sales that had close values lower than the standard product price
 
 Last QTR: the relevant metric listed above, calculated against the previous quarter
 
-##
+## MAIN PAGE - 
+![CRM SALES](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/53babf23-44ac-4d79-94f9-68837be52daa)
+
+## Team Performance
+
+
+## Total Sales card navigation 
+
+
+## New Opportunities details
+
+
+## Dashboard info 
 
