@@ -46,6 +46,7 @@ Last QTR: the relevant metric listed above, calculated against the previous quar
 
 
 ## New Opportunities details
+![TOTAL SALES](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/5d0a641c-6790-4024-a80d-af073601e38f)
 
 
 ## Dashboard info 
