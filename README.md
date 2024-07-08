@@ -46,8 +46,9 @@ Last QTR: the relevant metric listed above, calculated against the previous quar
 ## Total Sales card navigation 
 
 
-## New Opportunities details
-![TOTAL SALES](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/5d0a641c-6790-4024-a80d-af073601e38f)
+
+## New Opportunities details navigation
+![DEALS UNDER PIPELINE](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/5d625071-2331-45e2-a2c3-fc1a44bc110a)
 
 
 ## Dashboard info 
