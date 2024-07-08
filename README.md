@@ -40,7 +40,8 @@ Last QTR: the relevant metric listed above, calculated against the previous quar
 ![CRM SALES](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/53babf23-44ac-4d79-94f9-68837be52daa)
 
 ## Team Performance
-https://github.com/1996jainish/POWER-BI-DASHBOARDS/issues/3#issue-2395070479
+![TEAM PERFORMANCE](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/8e136fbb-abb9-4852-9892-8e298dd76815)
+
 
 ## Total Sales card navigation 
 
