@@ -1,6 +1,4 @@
-# POWER-BI-DASHBOARDS
-
-### Dashboard Link : 
+# CRM SALES POWER-BI-DASHBOARD
 
 ### Info :
 
@@ -63,4 +61,6 @@ The current quarter performance page then steps deeper into the data, with the k
 
 ##The Dataset
 The dataset contained records exported from MavenTech's CRM from October 2016 to December 2017. It held details of opportunities with associated information such as product, account, and whether the sale was won or lost.
+
+## Dashboard Link : https://app.powerbi.com/groups/me/reports/1dc8f264-1f3a-497a-a776-26a03a5a3956/d5b389cf31303abb58d0?experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource
 
