@@ -2,7 +2,6 @@
 
 ### Dashboard Link : 
 
-
 ### Info :
 
 This dashboard is designed for sales managers to track their team's quarterly performance. To get started, select your name from the filter on the current quarter performance tab. This will populate all pages of the dashboard with your team's information. If you'd like to view another team's information, you can simply change the name selected in the filter and everything will update accordingly.
@@ -39,17 +38,29 @@ Last QTR: the relevant metric listed above, calculated against the previous quar
 ## MAIN PAGE - 
 ![CRM SALES](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/53babf23-44ac-4d79-94f9-68837be52daa)
 
+This is the main page of the report, containing the most critical information for sales managers. Users select their name from the sales manager filter, and this populates all pages of the dashboard with their team's information.
+
+The key KPIs are shown clearly at the top of the page, with figures for the previous quarter and the average figure across all sales team for each metric provided below for additional context. This allows the sales manager to see their own figures and understand generally how they are tracking against the remaining teams and towards their own goals.
+
+Users can click the question mark to view more information about the dashboard, and see a definition of how each metric has been calculated, to assist with interpreting the dashboard.
+
+From the total sales card, users can click the arrow to dive deeper into the sales breakdown for the current quarter. This helps them to understand where they've had success and even see itemised sales data if required.
+
 ## Team Performance
 ![TEAM PERFORMANCE](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/8e136fbb-abb9-4852-9892-8e298dd76815)
 
+While it's not the most important goal for the sales managers, they would also like to be able to see how their team is performing in comparison to the remaining sales team. The current quarter performance by team page allows them to do this, by ranking all sales teams across the key metrics, and highlighting the top manager, can easily see where they stand.
 
 ## Total Sales card navigation 
+![Screenshot (68)](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/c8a16a72-0b64-4f03-b358-8bc86c3f4a19)
 
-
+From the potential to close card, managers can also dive deeper into all opportunities labelled as engaging for their team. They can use this detail to prioritise actions such as following up offers to close before end of quarter, and CRM cleanups e.g., opportunities that have been open for too long and need to be marked as lost.
 
 ## New Opportunities details navigation
 ![DEALS UNDER PIPELINE](https://github.com/1996jainish/POWER-BI-DASHBOARDS/assets/96227750/5d625071-2331-45e2-a2c3-fc1a44bc110a)
 
+The current quarter performance page then steps deeper into the data, with the key KPIs listed against each individual sales agent, and conditional formatting highlighting in red which team members may be struggling in a particular area. This allows the sales manager to identify both areas they can focus on to improve the performance, and individuals who may require additional support. The product level breakdown also helps identify specific areas of improvement for the team as a whole and individuals.
 
-## Dashboard info 
+##The Dataset
+The dataset contained records exported from MavenTech's CRM from October 2016 to December 2017. It held details of opportunities with associated information such as product, account, and whether the sale was won or lost.
 
